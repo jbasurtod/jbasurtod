@@ -17,4 +17,4 @@ Currently, I'm a Customer Success Manager, specializing in ensuring clients deri
 
 ## 📫 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/jbasurtod/)
-- [Kaggle](https://www.kaggle.com/)
+- [Kaggle](https://www.kaggle.com/jbasurtod)
