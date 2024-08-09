@@ -1,7 +1,7 @@
 <h1 align="center">Hello 😎! I'm Juan Carlos</h1>
 <h4 align="center">Welcome to my GitHub</h4>
 
-I'm a seasoned professional with over a decade of experience in Account Management, Project Implementations, Operations and Product Management that have helped me build a strong foundation in managing and executing projects. I love programming, creating tools and using data to make data-driven decisions.
+I'm a seasoned professional with over a decade of experience in Project Implementations, Account Management, Operations and Product Management that have helped me build a strong foundation in managing and executing projects. I love programming, creating tools and using data to make data-driven decisions.
 
 Currently, I'm a Customer Success Manager, specializing in ensuring clients derive maximum value from AI-powered solutions. I’m also pursuing a Master's in Data Science and AI, with a keen interest in leveraging my technical skills in Python, C#, and cloud computing to focus on the deployment of AI and machine learning models.
 
