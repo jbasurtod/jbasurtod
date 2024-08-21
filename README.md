@@ -7,7 +7,7 @@ Currently, I'm a Customer Success Manager, specializing in ensuring clients deri
 
 ## 🤖 Featured Projects:
 - [Productivizing a Machine Learning Model to predict the Tempearature in Barrio San Isidro, Madrid.](https://github.com/jbasurtod/streamlit_madrid_temperature_prediction) { [Streamlit App](https://predicting-madrid-temp.streamlit.app/) }
-- [**Live demo** of the Productivized Temperature predictions in Barrio San Isidro, Madrid](https://jbasurtod.pythonanywhere.com/madridtemp) 🔥
+- [🔥 **Live demo**🔥 of the Productivized Temperature predictions in Barrio San Isidro, Madrid](https://jbasurtod.pythonanywhere.com/madridtemp)
 - [Predicting Obesity with Neural Networks and Random Forests.](https://github.com/jbasurtod/streamlit_predicting_obesity) { [Streamlit App](https://obesitypred.streamlit.app/) }
 - [Multi Factor Authentication Microservice deployment on AWS](https://github.com/jbasurtod/AWS_MFA_microservice) (coming soon). { [Streamlit App](https://mfa-app.streamlit.app/) (request token for demo) }
 
