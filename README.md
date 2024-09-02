@@ -6,8 +6,7 @@ I'm a seasoned professional with over a decade of experience in Project Implemen
 Currently, I'm a Customer Success Manager, specializing in ensuring clients derive maximum value from AI-powered solutions. I’m also pursuing a Master's in Data Science and AI, with a keen interest in leveraging my technical skills in Python, C#, and cloud computing to focus on the deployment of AI and machine learning models.
 
 ## 🤖 Featured Projects:
-- [Productivizing a Machine Learning Model to predict the Tempearature in Barrio San Isidro, Madrid.](https://github.com/jbasurtod/streamlit_madrid_temperature_prediction) { [Streamlit App](https://predicting-madrid-temp.streamlit.app/) }
-- [📰 Medium story: Forecasting Temperatures in Madrid: A Machine Learning Engineering Project](https://medium.com/p/ba1d2c1a7694)
+- [Productivizing a Machine Learning Model to predict the Tempearature in Barrio San Isidro, Madrid.](https://github.com/jbasurtod/streamlit_madrid_temperature_prediction) { [Streamlit App](https://predicting-madrid-temp.streamlit.app/), [📰 Medium story](https://medium.com/p/ba1d2c1a7694) }
 - [🔥 **Live demo**🔥 of the Productivized Temperature predictions in Barrio San Isidro, Madrid](https://jbasurtod.pythonanywhere.com/madridtemp)
 - [Predicting Obesity with Neural Networks and Random Forests.](https://github.com/jbasurtod/streamlit_predicting_obesity) { [Streamlit App](https://obesitypred.streamlit.app/) }
 - [Multi Factor Authentication Microservice deployment on AWS](https://github.com/jbasurtod/AWS_MFA_microservice) (coming soon). { [Streamlit App](https://mfa-app.streamlit.app/) (request token for demo) }
