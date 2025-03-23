@@ -8,7 +8,7 @@ Currently, I'm an IT Project Manager working on ETL and AI solutions. I’m also
 ## 🤖 Featured Projects:
 - [SPANISH - Fine-Tuning de BETO para Detección de Fraude en Mensajes de Texto (Spam vs Ham)](https://github.com/jbasurtod/sms_spam_ham_BETO)
 - [Productivizing a Machine Learning Model to predict Madrid Temperatures.](https://github.com/jbasurtod/streamlit_madrid_temperature_prediction) { [Streamlit App](https://predicting-madrid-temp.streamlit.app/), [📰 Medium story](https://medium.com/p/ba1d2c1a7694) }
-- [🔥 **Live demo**🔥 of the Productivized Temperature predictions in Barrio San Isidro, Madrid](https://jbasurtod.pythonanywhere.com/climadrid)
+- [🔥 **Live demo**🔥 of the Productivized Temperature predictions in Barrio San Isidro, Madrid](http://climadrid.com)
 - [Predicting Obesity with Neural Networks and Random Forests.](https://github.com/jbasurtod/streamlit_predicting_obesity) { [Streamlit App](https://obesitypred.streamlit.app/) }
 - [Multi Factor Authentication Microservice deployment on AWS](https://github.com/jbasurtod/AWS_MFA_microservice) (coming soon). { [Streamlit App](https://mfa-app.streamlit.app/) (request token for demo) }
 
