@@ -3,7 +3,7 @@
 
 I'm a seasoned professional with over a decade of experience in Project Implementations, Account Management, Operations and Product Management that have helped me build a strong foundation in managing and executing projects. I love programming, creating tools and using data to make data-driven decisions.
 
-Currently, I'm an IT Project Manager working on ETL and AI solutions. I’m also finishing a Master's in Data Science and AI, with a keen interest in leveraging my technical skills in Python, C#, and cloud computing to focus on the deployment of AI and machine learning models.
+Currently, I'm a Data & AI Engineer working on ETL and AI scalable solutions. I also have a Masters in Data Science and AI, with a keen interest in leveraging my managerial and business skills to build valuable AI and data oriented products.
 
 ## 🤖 Featured Projects:
 - [SPANISH - Fine-Tuning de BETO para Detección de Fraude en Mensajes de Texto (Spam vs Ham)](https://github.com/jbasurtod/sms_spam_ham_BETO)
